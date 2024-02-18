@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&family=Montserrat+Alternates:wght@300&family=Poppins:wght@200;300&display=swap');
+body 
+{
+    font-family : 'Libre Franklin', sans-serif;
+}
